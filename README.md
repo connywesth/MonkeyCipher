@@ -13,6 +13,8 @@ Publicerad på Facebookgruppen Kodapor Off-Topic 2019-03-21.
 Krypteringsalgoritmen är en modifierad variant av det över 2000 år gamla Ceasar-kryptot.
 Originalkoden hittar du på GitHub-länken: https://github.com/connywesth/MonkeyCipher
 
+Programkoden är skriven i C# 7, och utvcklingsmiljön var MS Visual Studio 2017 Community version.
+
 Föreslagen lösning 2019-03-21 av Peter Eklund: https://github.com/dx-dt/monkeycipher
 
 
