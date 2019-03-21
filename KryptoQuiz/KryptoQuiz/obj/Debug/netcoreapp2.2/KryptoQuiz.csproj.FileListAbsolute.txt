@@ -1,0 +1,11 @@
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\bin\Debug\netcoreapp2.2\KryptoQuiz.deps.json
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\bin\Debug\netcoreapp2.2\KryptoQuiz.runtimeconfig.json
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\bin\Debug\netcoreapp2.2\KryptoQuiz.runtimeconfig.dev.json
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\bin\Debug\netcoreapp2.2\KryptoQuiz.dll
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\bin\Debug\netcoreapp2.2\KryptoQuiz.pdb
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.csprojAssemblyReference.cache
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.csproj.CoreCompileInputs.cache
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.AssemblyInfoInputs.cache
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.AssemblyInfo.cs
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.dll
+F:\Projects\C#\C#7\KodApor\Aman Arab\KryptoQuiz\KryptoQuiz\obj\Debug\netcoreapp2.2\KryptoQuiz.pdb
